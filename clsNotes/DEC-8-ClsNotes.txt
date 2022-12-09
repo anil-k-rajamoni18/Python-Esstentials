@@ -1,0 +1,86 @@
+##LAST PROGRAMMING 
+
+
+	=> Binary Lang (machine Language)
+		- 0's 1's
+		- Easy for machine , hard for developer
+		
+	==> Assembly Language 
+		- mnemonics : use to write the instructions
+		- ex: addition of two number 
+				DECLARE RX1
+				READ RX1
+				MULT RX1= RX1 * 10
+				OUT RX1
+		- Assembler --> AL ----> Binay Code(0,1)
+		
+		- hard to understand , difficult to implement
+		
+	==> High Level 
+		- writing the instructions using simple english words by following grammer/rules.
+		- ex: add two 2 numers
+			a = 10
+			b = 10
+			print(a + b)
+		
+		- HL(soure code) ---> Complier/Intepreter(translation)---> Binary Code(0,1)
+			
+			c , c++ , java 			-->  compilers
+			javascript , python , go --> intepreters
+			
+			==> COMPILER VS Interpreter.
+			
+			
+	### Command Prompt ?
+		
+		applications(Notepad ,msword)
+		OS (kernal)
+		H/W
+		
+		## 2ways  of interacting with OS 
+			- GUI 
+			- CLI
+			
+			
+		GUI -- send commands  -- OS(kernal) --- H/W (floders creating)
+		
+		CLI (send command) -- OS kernal -- H/W 
+		
+		##COMMANDS 
+			- cls 						--> clear the screen 
+			- cd (change directory ) 	--> change the path
+			- directorname:   			-> change to different directory
+			- dir 						--> to show the content in current path
+			
+			- mkdir name 				--> creating floder/directory
+			
+			- rmdir name                --->  
+			- notepad filename.ext 		--> to create a file .
+			
+			- type filename            --> shows content of the file.
+			- cd ..                    ---> change path to backward
+		
+			
+			
+		## HOW TO RUN A PYTHON RUN 	
+			- open cmd in current path where python file is present
+			- command: python filename.py
+		
+		
+		
+		
+		
+		#INSTALLATION 
+   1.anaconda prompt ( /miniconda)
+   https://docs.anaconda.com/anaconda/install/index.html  
+   https://docs.conda.io/en/latest/miniconda.html  - miniconda
+   
+   2. git bash for windows
+		https://gitforwindows.org/ 
+		
+		git --version
+   3.vscode 
+		https://code.visualstudio.com/
+
+		
+				

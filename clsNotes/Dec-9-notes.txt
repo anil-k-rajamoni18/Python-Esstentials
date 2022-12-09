@@ -1,0 +1,39 @@
+##LAST CLASS  DEC8
+	- PROGRAMMING 
+	- INTRO PYTHON(WHAT, WHY, HISTORY)
+	- HOW TO RUN THE Python
+	- Different Transalation : Compiler Vs  Interpreters
+	
+	## Popular command prompt commands 
+	## Installation of Python Interpreter 
+			- python.org
+			- download lastest version
+			- to check : open cmd 
+				python --version
+				python -V
+				
+	# Different ways to execute your Python Program
+	
+		1. using command prompt 
+				python filename.py
+		2. using python shell or IDLE
+				type : python 
+		3. using IDE's (VSCODE | PYCHARM)
+		4. using jupyter notebook
+				type: jupyter notebook (Anconda prompt)
+		5. using online interpreters
+		
+		
+### TODAY CLASS 
+	- WORKSPACE SETUP 
+		Directory a Floder : 
+		PythonTraining
+			- myPython
+			- orgPython
+				1. open git bash by right click and more option choose git bash here
+				2. type 
+					git clone https://github.com/anil-k-rajamoni18/Python-Esstentials.git
+				3. check whether you have cloned full repo or not
+			
+	- Jupyter Introduction & Shortcuts 
+	
