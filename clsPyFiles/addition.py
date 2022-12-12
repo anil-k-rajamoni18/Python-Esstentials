@@ -1,8 +1,12 @@
-a = 10
-b = 20 
+a = int(input("Enter num1: "))
 
-c = a + b 
+b = int(input("Enter num2: "))
 
-print("Addition of a and b is " , c )
+print(f"Addition is {a + b}")
+
+print(f"Difference is {a - b}")
 
 
+print(f"Multiplication is {a * b}")
+
+print(f"Division is {a / b}"

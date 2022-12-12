@@ -1,0 +1,74 @@
+## LAST CLASS.
+	### WORKSPACE 
+		PYTHON-TRAINING 
+			- myPython
+			- orgPython
+				==>clone the repo url
+					- open the git bash and right click and paste below command 
+					git clone https://github.com/anil-k-rajamoni18/Python-Esstentials.git
+	
+			--> copy the same floder from orgPython and paste in myPython 
+			
+			NOTE: don't change any content or files in orgPython
+		
+		### GET THE CHANGES
+			- open the orgPython and go inside the floder
+			- right click and open git bash here 
+			- type : 
+				git status  ---> nothing commit , working tree clean 
+				git pull 
+	
+	
+	### LAUNCH THE JUPYTER NOTEBOOK
+		- open anaconda prompt and change path in required floder.
+			(like where ever you have notebook files ex: myPython floder)
+		- launch the jupyter notebook 
+			type: jupyter notebook ---> on anaconda prompt it will open in default browser.
+			
+			
+			
+	### CHECK WHERE PYTHON is actually installed .
+		- open cmd 
+		- just type : python & enter (it will enter into PythonShell)
+		type:
+		
+		import sys
+		sys.executable
+		
+	### What is Jupyter Notebook.
+			- works like a client & server. 
+			- open the notebook in localhost:8888
+			
+			- interative notebook
+			- which provides features like 
+					- code in different language (python , R , Scala , Java)
+					- write the notes 
+					- shows documentation while coding 
+					- easy to use 
+					- saves automatically
+					
+		##MODES 
+			- command mode (BLUE)
+			- edit mode  (GREEN)
+			- markdown code (NO cell number)
+			
+			
+			==> shortcuts:
+				-->enter command mode (esc)
+				--> insert cell below : b
+				--> insert cell above : a
+				--> delete the cell : x
+				--> copy : c
+				--> paste : v
+				--> undo/redo : z
+				--> RUN : shift + enter.
+		##LEVEL-1 (6-7 sessions)
+			INP/OUTPUT
+			COMMENTS.
+			VARAIBLES & RULES
+			DATA TYPES & METHODS 
+			OPERATORS AND RULES
+			INDEXING AND SLICING.
+			
+		
+				

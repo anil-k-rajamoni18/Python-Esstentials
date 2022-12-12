@@ -37,3 +37,8 @@
 			
 	- Jupyter Introduction & Shortcuts 
 	
+	### LAUNCH Jupyter notebook 
+		1. install jupyter notebook
+			pip install jupyter notebook
+		2. change the path to where ever you have notebook files
+			type : 
