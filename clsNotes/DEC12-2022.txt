@@ -16,7 +16,7 @@
 			- right click and open git bash here 
 			- type : 
 				git status  ---> nothing commit , working tree clean 
-				git pull 
+				git pull   ----> will get new changes. 
 	
 	
 	### LAUNCH THE JUPYTER NOTEBOOK
@@ -38,19 +38,19 @@
 	### What is Jupyter Notebook.
 			- works like a client & server. 
 			- open the notebook in localhost:8888
-			
+			- all jupyter notebook files will have .ipynb(interactive python notebook)
 			- interative notebook
 			- which provides features like 
 					- code in different language (python , R , Scala , Java)
 					- write the notes 
 					- shows documentation while coding 
 					- easy to use 
-					- saves automatically
+					- saves changes automatically
 					
 		##MODES 
 			- command mode (BLUE)
 			- edit mode  (GREEN)
-			- markdown code (NO cell number)
+			- markdown code (NO cell numbering)
 			
 			
 			==> shortcuts:
