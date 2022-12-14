@@ -1,0 +1,52 @@
+## TODAY CLASS 
+===========================
+1. Python2 vs Python3 (3.11.1)
+2.  Python Identation
+	syntax 
+3. Comments 
+4. Variables.
+
+Python2 vs Python3 (3.11.1)
+==============================================
+1. Legacy vs Future
+2. print "" vs print()
+3. ASCII vs UNICODE  : Strings representations
+4. 7/2 -- interger quotient (3) -- python2
+	7/2 --- exact float quotient (3.5) -- python3
+	
+5. less Libraries  vs more libraries.
+6. interger size - 32bits  ::> PYTHON2
+	integer size - no limits ::> PYTHON3
+	
+7. Easy to Understand compared to PYTHON
+
+[] -square brackets
+() - parenthesis  or round brackets
+{} - curly brackets 
+
+TABLES (0-255)
+
+locations :			 			7    6   5   4   3   2  1   0 
+values (2^loc) 					128  64  32  16  8   4  2	1	
+=======================================================================
+
+27 decimal 
+
+
+###########################
+
+Ways to run a python code 
+
+1. Shells or IDLE 
+2. commad prompt (.py) files
+3. Jupyter notebook
+4. IDE's ( VSCODE , PYCHARM)
+
+
+### OBSERVATIONS 
+	- any textual must enclose between single quotes '' or double quotes : STRINGS (group of characters(letters, symbols,numbers)
+	ex: 'kumar' ,"Rajamoni" ,'A' , 'Kumar@13'  "(@*&(&#(("  '10283080'
+	
+	==> empty print() method or statement  act as new line
+		print() #newline because end="\n"
+	
