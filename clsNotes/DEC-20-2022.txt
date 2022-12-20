@@ -1,0 +1,64 @@
+TODAY CLASS
+====================
+prebuild methods
+========================
+print() - display data on screen/console.
+
+type() --- to display  datatype of a variable.
+
+id() ----- display the memory addr of a variable.
+
+int()
+float()
+str()
+list()
+tuple()
+set()
+dict()
+bool()
+complex()
+
+syntax :
+==============
+python3
+
+varName = value 
+age = 30
+
+
+java/c/c++
+
+datatype varName = value 
+int  age = 30;
+age = 35.27877
+
+### Primitive datatypes(build-in)
+	int         0-9
+	float   -   0.0 --9.9 
+	str     -   'Kumar' "rajamoni" "Hi" 'Hello world"
+	bool    - True or False
+	complex - 1+2j 3+2j 
+	None    
+	
+### Sequence Datatypes(Advance datatypes)
+	LIST 
+	TUPLE
+	SET
+	DICTIONARY
+	
+	
+###INPUT()
+	
+	varName = input("Prompt")
+	
+	- default it will read all dtypes in str format
+	
+	## if u want to convert respective datatypes , we have to use methods
+		str - int -> int()
+		str - float - > float()
+		str - bool - > bool()
+		str - complex --> complex()
+		
+		age = input() #str
+		age = int(age) #str - int
+		

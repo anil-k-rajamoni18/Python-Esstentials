@@ -1,0 +1,46 @@
+###LAST CLASS
+	- Py2 vs Py3 
+	- Python Identation (whitespace )
+	=> print() 
+		- value
+		- sep = ' '
+		- end = '\n'
+		- file = sys.stdout ---> screen/mointor/console
+		-flush = False
+		
+	
+
+
+##TODAY CLASS 
+======================
+- remaing print() 
+
+## COMMENTS 
+	=> single comment # 
+	==> multiline comments ''' ''' or """ """
+	
+### variables 
+	- a name assigned to memory location , to store the data and fetch whenever we call it.
+	- WHY WE NEED ?
+		- instead of calling with memory address it's easy to call with meaningful names.
+	- Variables posses variablity property : which change it's variable during programming execution.
+	
+	
+
+
+
+###OBSERVATIONS:
+	- Very function in Python by default they have to return some value , 
+	#if they don't return any values, interpreter will return None value.
+	- print() method by default it will not return any value , so interpreter will return NONE by default.
+	##Two case:
+		- when storing function calling in one variables , expects return value 
+		- when calling one function inside another function , expects return value.
+		
+		
+	==> Java , C , C++ --> static lang's , we have to declare the data types
+	==> Python --> dynamic is lang , no need to declare the data type 
+			-- interperter will decide the data type based on the value in RUNTIME.
+			
+			
+	NEXT CLASS on monday 
