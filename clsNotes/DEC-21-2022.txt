@@ -1,0 +1,62 @@
+##TODAY CLASS DEC 21:
+==============================
+ Data Types :
+======================
+	->defines the type of data to be stored inside the variables.
+	- >represents realworld data(textual , numbers, audio/video files , images)
+	
+	## primitive types:
+		1.integer - int - int() 
+			ex: 0 -9 
+		2.floating - float - float() 
+			ex: 0.0 - 0.9
+		
+		3.strings - str - str()
+			ex: 'a' "Kumar" "93898398" "Kumar@123"
+			note: we can use single quote or double quote 
+			
+		4.boolean - bool - bool()
+			ex: True or False , 1 or 0
+			
+		5.complex numbers - complex - complex()
+			ex: 1+2j , 6j 
+				ex: real = 1
+					imag = 2
+					constant = j
+					
+		6. None - Null 
+
+	## Sequence types
+		=> LIST : mutable  
+			marks = [10,20,30,33]
+			
+		=> TUPLE : immutable 
+			prices = (10.2 , 10.22,72.2)
+		
+		=> SET : unordered & unindexed & doesn't duplicates
+		
+			colors = { "red" ,"blue" ,"red" ,"yellow"}
+			
+		==> DICTIONARY : key : values pairs
+			student={
+				"name": "Kumar",
+				"branch" : "DataScience",
+				"fee" : 1028.293
+				}
+				
+		==> NamedTuple 
+		
+		==> Ordered Dictionary
+		
+			
+			
+prebuild methods 
+=======================
+print()
+type()
+id()
+input()
+dir() - it will display all attributes or methods of a variables/obj
+
+len() - display the length of sequence datatypes(list,tuple,str,set,dict)
+

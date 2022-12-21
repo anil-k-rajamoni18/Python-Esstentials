@@ -10,6 +10,8 @@ id() ----- display the memory addr of a variable.
 
 int()
 float()
+bool()
+complex()
 str()
 list()
 tuple()
