@@ -1,0 +1,40 @@
+##NEW CHANGES 
+	- go inside python-ord/python esstential
+	- open gitbash 
+		type:
+			git status
+			git pull
+			
+	- copy the Python Esstential from python-org to mypython 
+
+
+## TODAY  CLASS 
+	## SEQUENCE TYPES 
+	1. LIST 
+		- sequence collectional datatype which is ordered and indexed.
+		- Mutable (changes are allowed at locations)
+		- INDEXING 
+			+ve : 0 ----> N-1 (left -right)
+			-ve : -1 ----> -N (right - left)
+		- Homogenous and Hetrogenous data types 
+		
+		- syntax:
+			varName = [data1,data2 ,data3 ...datan]
+			
+	observations:
+	=======================
+		append() - one data element
+		extend()  - more than one data elements
+		insert(ind ,data) - adding data at specific location
+			- +ve invalid ind --> add data at end of the list
+			- -ve invalid index --> add data at front of the list
+		pop() 
+			- by default -1
+			- can't apply on empty list []
+			- throws error on invalid index.
+			
+			
+	2.TUPLE:
+		- declared with ()
+		- immutable 
+		
