@@ -1,0 +1,61 @@
+TODAY CLASS
+=============
+//in java 
+
+// explicit done by user
+float price = 36.37;
+
+int p = (int)price; //p = 36
+
+// implicit done by jvm/compiler
+
+int a = 100
+
+float b = a ;
+
+
+TYPE CASTING 
+##################
+	- covert one datatype(int,float,bool , complex,str,list,tuple,set,dictionary) ---> another type
+	- why?
+		- based on problem statement
+	- How?
+		- using prebuild 
+			int() float() bool() complex() str() 
+			list() tuple() set() dict()
+			
+		10  - int
+		'10' - str
+		'19.28' - str
+		'A' - str
+		' Kumar@1234 - str
+		'28398@*(&#(' - str
+		"True" -- str
+		
+		- whenever we want to convert str-- int/float/bool
+			
+			- we have to use int() , float() , bool() method 
+			- data should be in valid format
+			
+			'10' -- int('10') -- 10
+			'10.2'-- float('10.2') -- 10.2
+			'True' -- bool('True') -- True 
+			
+		- we can covert any data types into str.
+		
+			
+			
+			
+		
+	
+	
+	
+	
+	
+	
+	
+####################
+STRING
+####################
+	=> properties 
+			- 
