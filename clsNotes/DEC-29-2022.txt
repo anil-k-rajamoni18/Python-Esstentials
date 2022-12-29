@@ -1,0 +1,32 @@
+TODAY CLASS
+================
+
+####################
+STRING
+####################
+	=> properties 
+			- Collectional of characters(letter,number,symbols)
+			- immutable type.
+			- 3 ways to represent the strings in python	
+					-> single quotes  'Hi' 'K'
+					-> double quotes   "Hello Python"
+					- triple quotes     ''' Mutliline strings'''
+			- supports indexing 
+				- +ve : 0 --> N-1
+				- ve : -1 ---> -N
+				
+				
+				
+	observation:
+	#################
+		- + used to concat strings , can be used with both str's (str+str)
+		- int+str --> Raise a Error
+			"hello"+40
+		- * used to multiply the string , can used with str+int
+		      - "Hi"*10
+		- str*str --> Raise a Error
+			  - "Hi"*Hi"
+			  
+	
+	==> Methods:
+		
