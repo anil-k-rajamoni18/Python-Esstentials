@@ -1,0 +1,24 @@
+TODAY CLASS 
+=====================
+
+String methods
+================
+	observation:
+		1. find() rfind() 
+				- find the index of a character[if found]
+				- gives -1 [if not found]
+				
+		2. index() rindex() 
+				- find the index of a character [if found]
+				- gives Error [if not found]
+		3. split()
+				- convert strings (of characters) into list
+				- by default space as delimiter (seperator).
+
+Dec-30: Strings-2
+======================
+link: https://transcripts.gotomeeting.com/#/s/077ac121c4d135ce0cf51b2fe63bb2605124cc54a0ce3a33a37130df1445d40b
+
+note: please download , it will expire in 3days.
+				
+			

@@ -15,18 +15,30 @@ STRING
 				- +ve : 0 --> N-1
 				- ve : -1 ---> -N
 				
+	
+		##STRING formatting
+			- format specifiers (%s %d %f %.2f)
+				print("iam %s age %d"%(name,age))
 				
+			- String format method
+				print("iam {} age {}".format(name,age))
+				
+			- f strings(3.6+)
+				print(f'am {name} age is {age}')
+			
 				
 	observation:
 	#################
 		- + used to concat strings , can be used with both str's (str+str)
 		- int+str --> Raise a Error
 			"hello"+40
-		- * used to multiply the string , can used with str+int
+		- * used to multiply the string , can used with str*int
 		      - "Hi"*10
 		- str*str --> Raise a Error
 			  - "Hi"*Hi"
 			  
 	
 	==> Methods:
+	
+	
 		
