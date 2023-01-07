@@ -45,8 +45,8 @@
 ### Workspace setup:
 	1. Create main floder with some name ---> PythonTraining.
 			- create two sub-floders
-				->  my-python
-				->  python-org
+				->  myPython
+				->  orgPython
 	2. Go to PythonTraining/python-org
 		- Open GitBash by right click on empty screen
 		- Do the git clone 

@@ -53,7 +53,7 @@
 			- markdown code (NO cell numbering)
 			
 			
-			==> shortcuts:
+			==> shortcuts:(in command mode)
 				-->enter command mode (esc)
 				--> insert cell below : b
 				--> insert cell above : a
@@ -61,7 +61,7 @@
 				--> copy : c
 				--> paste : v
 				--> undo/redo : z
-				--> RUN : shift + enter.
+				--> RUN cell: shift + enter.
 		##LEVEL-1 (6-7 sessions)
 			INP/OUTPUT
 			COMMENTS.

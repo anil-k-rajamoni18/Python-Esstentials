@@ -1,0 +1,89 @@
+###### SUMMARY OF LEVEL-1 ###########
+ - Py2 vs Py3
+ - Python Identation 
+ - print() 
+		value
+		sep
+		end
+		file
+		flush
+- comments 
+	- single # 
+	- multiline  ''' '''
+
+- Variables 
+	- intro
+	- rules
+	- memory locations happens
+	
+- input()
+	- type casting using pre-build methods 
+		int() float() str() complex() list() tuple() 
+		set() dict()
+		
+- DATA TYPES
+	numbers - int float complex
+	textual - Strings 
+	SEQUENCE : list tuple set dictionary
+	
+- pre-build methods 
+	type()
+	dir()
+	len()
+	id()
+	help()
+	ord()
+	chr()
+	max() min() sum() 
+	
+- SEQUENCE DATA TYPES 
+	#LIST 
+		- properties 
+		- methods
+			append() insert() extend()
+			remove() pop() 
+			sort() count() find() index()
+	#TUPLE 
+		- properties 
+		- methods 
+	#SET 
+		- properties 
+		- methods 
+	# DICTIONARY
+		- properties 
+		- methods 
+	# STRING 
+		- properties 
+		- methods 
+	#RANGE 
+		- properties
+		- syntax
+		
+- INDEXING & SLICING 
+	- list tuple string 
+	
+- OPERATORS 
+	- types 
+	
+- OPERATORS PRECEDENCE  & ASSOCIATIVE
+	- priority table
+	
+		
+		
+	HOW TIME COMPLEXITY IS CALCULATE?
+		what is BIG-OH   - O(1) O(n) O(n^2)
+				BIG-OHMEGA
+				BIT-TETA
+				
+	a = 10
+	b= 0
+	print(a-b)
+	print(a/b)
+	prit(a+b)
+		
+		
+	day = "No Holiday"
+	if day == "Holiday":
+		print("planning to go out")
+	else:
+		print("Need to work")	

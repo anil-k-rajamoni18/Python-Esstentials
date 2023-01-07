@@ -1,0 +1,41 @@
+TODAY CLASS : OPERATORS 
+===========================
+
+Types:
+1. Assignment (= ,+=,,-= ) 
+
+2. Arthmetic (+ - * / // % **)
+	// - integer result(integer quotient)
+	%  - remainder of num1/num2 
+
+3. Comparison (> >= < <= == !=) --> True | False 
+
+4. Identity and Membership 
+	is is not  --> compare address 
+	in not in ---> check memership 
+	
+5. Logical 
+
+6. Bitwise 
+- operator is a symbol which applies on operands(variables/values)
+- applying operator on operands to do operation
+		ex: 10+20
+			
+			
+			
+##OBSERVATION
+	##MODULUS OPERATOR
+	
+		1. Numerator<Demo ---> Answer is Numerator
+		2. Numerator == Demo --> 0
+		3. Numerator> Demo (get remainder doing division method)
+		4. Demo == 0 --> Raise Error
+		
+	1. = is used for assignment 
+	ex: varName = value 
+
+	2. == is used for content/value comparision 
+	ex: 10 ==12
+	
+	3. is operator is used for memory address comparion
+	

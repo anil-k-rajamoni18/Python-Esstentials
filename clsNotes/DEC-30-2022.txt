@@ -1,5 +1,31 @@
 TODAY CLASS 
 =====================
+==> String properties 
+		- immutable
+		- collectional of characters
+		- 3ways of declaring 
+		- supports indexing (+ve & -ve)
+		- supports slicing [start:stop:step]
+		
+==> String formating 
+	- format specifiers
+	- String.format()
+	- f String 
+	
+==> Indexing 
+
+==> Slicing 
+	- one parameter is mandatory while slicing
+	= postive [start:stop:step]
+		default value: 
+			start : 0
+			stop : LEN-1
+			step: 1
+	= negative
+			start: -1
+			stop: -LEN-1
+			step: -1
+		
 
 String methods
 ================
@@ -15,10 +41,5 @@ String methods
 				- convert strings (of characters) into list
 				- by default space as delimiter (seperator).
 
-Dec-30: Strings-2
-======================
-link: https://transcripts.gotomeeting.com/#/s/077ac121c4d135ce0cf51b2fe63bb2605124cc54a0ce3a33a37130df1445d40b
-
-note: please download , it will expire in 3days.
 				
 			

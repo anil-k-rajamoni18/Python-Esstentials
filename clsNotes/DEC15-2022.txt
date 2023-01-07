@@ -42,5 +42,8 @@
 	==> Python --> dynamic is lang , no need to declare the data type 
 			-- interperter will decide the data type based on the value in RUNTIME.
 			
-			
-	NEXT CLASS on monday 
+	int age = 10 -- java
+	
+	age = 30  -- python
+	
+	

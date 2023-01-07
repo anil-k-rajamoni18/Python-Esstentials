@@ -37,9 +37,9 @@ age = 35.27877
 ### Primitive datatypes(build-in)
 	int         0-9
 	float   -   0.0 --9.9 
-	str     -   'Kumar' "rajamoni" "Hi" 'Hello world"
-	bool    - True or False
-	complex - 1+2j 3+2j 
+	str     -   'Kumar' "rajamoni" "Hi" 'Hello world" "10Hello" "102893" "7*&3"
+	bool    -   True or False
+	complex -   1+2j 3+2j  (real+imag*constant)
 	None    
 	
 ### Sequence Datatypes(Advance datatypes)
@@ -47,6 +47,7 @@ age = 35.27877
 	TUPLE
 	SET
 	DICTIONARY
+	
 	
 	
 ###INPUT()
@@ -64,3 +65,5 @@ age = 35.27877
 		age = input() #str
 		age = int(age) #str - int
 		
+		
+		isWinner = bool(input())

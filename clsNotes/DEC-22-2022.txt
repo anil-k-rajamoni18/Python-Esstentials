@@ -20,21 +20,25 @@
 		
 		- syntax:
 			varName = [data1,data2 ,data3 ...datan]
+	==> Accessing list elements 
+		varName[0] --> element1
+		varName[1] --> element2
 			
 	observations:
 	=======================
-		append() - one data element
-		extend()  - more than one data elements
+		append() - one data element at the end of the list
+		extend()  - more than one data elements at the end list 
 		insert(ind ,data) - adding data at specific location
-			- +ve invalid ind --> add data at end of the list
-			- -ve invalid index --> add data at front of the list
+			- +ve invalid ind --> add data at end of the list.
+			- -ve invalid index --> add data at front of the list.
 		pop() 
-			- by default -1
+			- by default index=-1
 			- can't apply on empty list []
 			- throws error on invalid index.
 			
 			
 	2.TUPLE:
-		- declared with ()
+		- declared with 
+		varName = (data1,data2,data3)
 		- immutable 
 		

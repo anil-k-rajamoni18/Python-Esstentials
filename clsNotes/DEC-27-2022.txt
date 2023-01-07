@@ -1,2 +1,109 @@
 LAST CLASS:
 =====================
+SEQUENCE DTYPES
+--------------------
+	=> LIST:
+		- properties 
+			- declared [] 
+			- storing multiple dtypes in a variable
+			- supports indexing (both +ve , -ve)
+			- mutable
+		- methods:
+			append()
+			insert()
+			extend()
+			remove()
+			pop()
+			sort()
+			reverse()
+			copy()
+			clear()
+			count()
+			index()
+			
+	==>TUPLE 
+		- properties:
+			- declared () 
+			- supports indexing (both +ve , -ve)
+			- immutable
+		- methods:
+			- index()
+			- count()
+			
+	==> SET :
+		- properties:
+			- unordered & unindexed 
+			- doesn't support indexing
+			- doesn't store duplicates 
+			- declared {ele1,ele2.....}
+				ex: teams = {"INDIA","AUS",10,10.2}
+		- methods:
+			- add()
+			- remove()
+			- discard()
+			- union()
+			- difference()
+			- intersection()
+			- isdisjoint()
+			- issubset()
+			
+	==> DICTIONARY:
+		- properties:
+			- declared with {k1:v1,k2:v2}
+			- keys should be always immutable(tuple,str,int,float,complex,boolean)
+			- keys should be unique.
+			- values can be of any datatypes
+			- supports indexing based on keys
+				
+				dictionaryName["key"] ---> value  (if key is not present raise an Error)
+				dictionaryName.get("key") ---> value (if key is not present will not raise any Error , print None/message)
+				
+				
+		- methods :
+			get()
+			keys()
+			values()
+			pop()
+			popitem()
+			update()
+			
+			
+			
+## PREBUILD methods/functions
+	- lower case
+	print()
+	input()
+	type()
+	len()
+	id()
+	int()
+	float() 
+	str() bool() complex() 
+	list() set() tuple() dict()
+	dir()
+	
+## 2ways to represent strings in binary 
+	- ascii (8bit) 256 locations
+	- unicode (16bit) 65,536 locations
+	
+	
+	
+### RANGE()
+	- generates sequence of integers
+	- has 3 args 
+		- start : 0 
+		- stop : LEN-1
+		- step : 1
+	- stop is mandatory and excluded (always stop-1)
+	- supports both +ve and -ve args 
+	- always stop>start 
+		range(1,2) -->[1]
+		range(1,1) --> []
+		
+	
+	
+	
+	
+	
+			
+	

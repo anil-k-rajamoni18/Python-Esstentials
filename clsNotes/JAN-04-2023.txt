@@ -1,0 +1,29 @@
+##############OPERATORS-2###############
+1. Arthmetic + - * / // % **
+2. Comparison > >= <= == !=   ---> True or False
+3. Logical Operator 
+	and --> Both conditions should be true
+	or  --> atleast condition should be true
+	not  --> reverse
+	
+	
+4.Bitwise 
+	&  --> set to 1 when both bits are 1
+	|  --> set to 1 when atleast one bit is 1
+	^  --> set to 1 when both bits are different
+	~  -- > complement 0-->1 , 1-->0
+	>> --> it will shift bits to the right hand side , there will be empty space on left hand side.
+		n//2^bits
+	<<  ---> it will shift bits to the left hand side , there will be empty space on right hand side.
+		n*2^bits
+		
+		
+	ex: a = 8 
+		binary of 8 : 0000 1000
+		a>>2  0000 0010 -->2
+			formula : 8//2^2 --> 8/4 --->2
+		a<<2  0010 0000  --> 32
+			formula : 8*4 --> 32 
+		
+		128 64 32 16 8 4 2 1 
+		0    0  1  0 0 0  0 0

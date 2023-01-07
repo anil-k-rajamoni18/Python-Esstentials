@@ -27,17 +27,17 @@
 		6. None - Null 
 
 	## Sequence types
-		=> LIST : mutable  
+		=> LIST : mutable   - list()
 			marks = [10,20,30,33]
 			
-		=> TUPLE : immutable 
+		=> TUPLE : immutable  - tuple()
 			prices = (10.2 , 10.22,72.2)
 		
-		=> SET : unordered & unindexed & doesn't duplicates
+		=> SET : unordered & unindexed & doesn't duplicates - set()
 		
 			colors = { "red" ,"blue" ,"red" ,"yellow"}
 			
-		==> DICTIONARY : key : values pairs
+		==> DICTIONARY : key : values pairs - dict()
 			student={
 				"name": "Kumar",
 				"branch" : "DataScience",
